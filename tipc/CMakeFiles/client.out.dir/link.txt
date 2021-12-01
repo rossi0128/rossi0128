@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/client.out.dir/source/client.c.o  -o client.out 

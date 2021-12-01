@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/server_tipc.out.dir/source/server_tipc.c.o  -o server_tipc.out 

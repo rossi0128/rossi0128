@@ -1,0 +1,4 @@
+/home/lengt/gdb_learn/tipc/CMakeFiles/rebuild_cache.dir
+/home/lengt/gdb_learn/tipc/CMakeFiles/edit_cache.dir
+/home/lengt/gdb_learn/tipc/CMakeFiles/client_tipc.out.dir
+/home/lengt/gdb_learn/tipc/CMakeFiles/server_tipc.out.dir

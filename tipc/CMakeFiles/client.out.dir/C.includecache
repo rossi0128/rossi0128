@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lengt/gdb_learn/tipc/include/Command.h
+
+/home/lengt/gdb_learn/tipc/source/client.c
+stdio.h
+-
+sys/shm.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+stdlib.h
+-
+../include/Command.h
+/home/lengt/gdb_learn/tipc/include/Command.h
+
