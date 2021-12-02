@@ -1,0 +1,10 @@
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/rebuild_cache.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_async_client2.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_async_server.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_async_client.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/edit_cache.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_callback_server.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_callback_client.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_server.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/greeter_client.dir
+/home/lengt/mygit/grpc/helloworld/CMakeFiles/hw_grpc_proto.dir
